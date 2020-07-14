@@ -36,3 +36,7 @@ EverybodyVenmo.mobileprovision
 *.pid
 
 Carthage/
+
+vendor/bundle/
+.bundle
+Cartfile.resolved
